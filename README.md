@@ -36,6 +36,15 @@ no terminal utilize
 python challenge.py
 ```
 
+3.Verifique se o caminho da imagem está correto 
+
+```
+#exemplo
+
+image_path = 'patio.jpg'
+image = cv2.imread(image_path)
+```
+
 ## Funcionalidades
 
 - Detecta motocicletas em imagens
