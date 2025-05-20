@@ -30,9 +30,11 @@ pip install numpy
 1. Certifique-se de que você tem uma imagem para testar (por padrão, o código procura por 'motos2.jpg' no mesmo diretório)
 
 2. Execute o script principal:
-no terminal
-python challenge.py
+no terminal utilize 
 
+```
+python challenge.py
+```
 
 ## Funcionalidades
 
