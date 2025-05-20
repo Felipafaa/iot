@@ -30,7 +30,7 @@ def draw_motorcycles(image, results):
     return image, motorcycles
 
 
-image_path = 'C:/Users/felip/Desktop/challenge 2025/iot/motos2.jpg'
+image_path = 'C:/Users/felip/Desktop/challenge 2025/iot/patio.jpg'
 image = cv2.imread(image_path)
 
 
